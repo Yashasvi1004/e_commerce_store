@@ -71,7 +71,7 @@ An exploratory data analysis (EDA) project on a US-based e-commerce store's tran
 ### 7. Sales-to-Profit Ratio by Segment
 - Consumer segment has the highest ratio (8.66x), Home Office the lowest (7.13x)
 
-### 8. Top 10 States by Average Profit
+### 8. Top 10 States with highest Profit
 - Geographic breakdown to identify the most profitable states for the business
 
 ### 9. Discount vs Profit (Regression Analysis)
